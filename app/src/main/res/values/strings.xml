@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TDM2_TP1_EXO1</string>
+    <string name="this_is_the_first_activity">This is the first activity</string>
+    <string name="go_to_second_activity">Go to second Activity</string>
+    <string name="go_to_third_activty">Go to third Activity</string>
+    <string name="this_is_the_second_activity">this is the second activity</string>
+    <string name="go_to_first_activity">Go to first Activity</string>
+    <string name="this_is_the_third_activity">This is the third activity</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="this_is_the_setting_activity">This is the setting Activity</string>
+
+
+    <string-array name="color_menu">
+        <item>White</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <integer-array name="color_colors">
+        <item>@color/white</item>
+        <item>@color/blue</item>
+        <item>@color/red</item>
+        <item>@color/green</item>
+        <item>@color/yellow</item>
+    </integer-array>
+</resources>
